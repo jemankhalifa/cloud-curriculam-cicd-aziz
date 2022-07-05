@@ -5,7 +5,7 @@ export class AppService {
 
 
   healthCheck(): string {
-    return 'App is Healthy';
+    return 'App is healthy';
   }
 
   getHello(): string {
