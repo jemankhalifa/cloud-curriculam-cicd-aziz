@@ -10,8 +10,8 @@ export class AppService {
 
   getHello(): string {
     return (
-      '<h1>Hello From Eman !</h1>' +
-      '<p>Deployed Successfully By : <b>Aziz</b> </p>' +
+      '<h1>Hello Julebers!</h1>' +
+      '<p>Deployed Successfully By : <b>Eman</b> </p>' +
       '<p>Version : <b>1.0.1</b></p>'
     );
   }
